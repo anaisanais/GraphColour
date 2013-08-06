@@ -1,7 +1,7 @@
 import java.io.IOException;
 
 /**
- * The class <code>Solver</code> is an implementation of a greedy algorithm to solve the knapsack problem.
+ * The class <code>Solver</code> is an implemxcventation of a greedy algorithm to solve the knapsack problem.
  *
  */
 public class Solver {
