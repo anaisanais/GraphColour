@@ -7,7 +7,7 @@ import java.io.IOException;
 public class Solver {
 
     /**
-     * The main class
+     * The main clasdfgss
      */
     public static void main(String[] args) {
         try {
